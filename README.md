@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruno Amorim
 - 👀 I’m interested in All kinds of stufff related to react native and the mobile development world.
 - 🌱 I’m currently learning the process to create a react native turbo module and REST API developemnt with Django REST Framwork.
-- 💞️ I’m looking to collaborate on react native open source projects.
+- 🧐 I’m looking to collaborate on react native open source projects.
 - 📫 How to reach me: brunoamorim.dev@gmail.com.
